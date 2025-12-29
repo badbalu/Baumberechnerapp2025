@@ -15,4 +15,3 @@ if st.button("Berechnen"):
     wert4 = wert3 / 1000000
     
     st.write("Ergebnis:", wert4,"m³")
-    dd
